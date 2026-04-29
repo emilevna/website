@@ -1,2 +1,8 @@
 # website
-"Let's vibe the code out of it" - C.M. "We don't give a .."
+
+This is a test of making a personal website using GitHub Pages.
+
+Hi I'm Olga 
+
+I like green
+
